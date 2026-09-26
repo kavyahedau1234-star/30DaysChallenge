@@ -1,54 +1,60 @@
-# Student Marks Calculator
+Hi! This is one of my beginner C programming projects.
 
-Welcome to my **Student Marks Calculator** project! This is a simple C program that takes the marks of a student in 5 subjects and calculates the **Total Marks**, **Average Marks**, and **Percentage**.
+In this project, I made a simple program that takes the marks of a student in 5 different subjects and then calculates the total marks, average marks, and percentage.
+I made this project while practicing the basic concepts of C programming.
 
-This project is part of my **C Programming Challenges**, where I'm practicing the basics of programming step by step.
+What does the program do?
 
-## What Does This Program Do?
+The program asks the user to enter marks for:-
 
-The program asks you to enter marks for 5 subjects and then calculates:
+Subject 1
+Subject 2
+Subject 3
+Subject 4
+Subject 5
 
-- Total Marks
-- Average Marks
-- Percentage
+After entering all the marks, it shows:-
 
-It's a small project, but it's great practice for understanding how calculations and user input work in C.
+Total Marks
+Average Marks
+Percentage
 
-## Built With
+Things I used:-
 
-- **C Language**
-- `printf()` for displaying output
-- `scanf()` for taking user input
-- Basic arithmetic operations
+I made this project using C language.
+Some basic things I used are:
 
-## Example
+printf() – to show messages and results
+scanf() – to take marks as input
+Variables – to store the marks and calculations
+Basic mathematical operations – to calculate the results
 
-Here's how the program might look when you run it:
+Example:-
+This is an example of what the program can look like when we run it:
 
-```
-Enter marks for Physics: 80
-Enter marks for Chemistry: 75
-Enter marks for Maths: 90
-Enter marks for Computer Science: 85
-Enter marks for English: 70
+Enter marks for Subject 1: 80
+Enter marks for Subject 2: 75
+Enter marks for Subject 3: 90
+Enter marks for Subject 4: 85
+Enter marks for Subject 5: 70
 
 Total Marks = 400
 Average Marks = 80.00
 Percentage = 80.00%
-```
 
-## What I Learned
+What I learned?
 
-While making this project, I practiced:
+While making this small project, I got practice with:-
 
-- Taking input from the user
-- Using variables
-- Working with different data types
-- Performing arithmetic calculations
-- Using `printf()` and `scanf()`
+1.Taking input from the user
+2.Creating and using variables
+3.Understanding different data types
+4.Doing simple calculations in C
+5.Using printf() and scanf()
 
-## About This Project
+About the project:-
 
-I'm building small projects like this to improve my C programming fundamentals and get more comfortable with writing programs.
+This is a small project, but it helped me understand the basics of C programming better.
+I'm planning to keep making small projects like this so I can slowly improve my programming skills and become more comfortable with writing code.
 
-Every small project is one more step forward!
+THANKYOU!
