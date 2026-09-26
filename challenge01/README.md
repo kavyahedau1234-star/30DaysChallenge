@@ -44,5 +44,4 @@ Enter marks for Subject5: 70
 Total Marks = 400
 Average Marks = 80.00
 Percentage = 80.00%
-```
 
