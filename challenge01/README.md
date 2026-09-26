@@ -54,10 +54,8 @@ While making this small project, I got practice with:
 * Creating and using variables
 * Understanding different data types
 * Doing simple calculations in C
-* Using `printf()` and `scanf()`
+* Using printf() and scanf()
 
-## About the project
+ About the project
 
 This is a small project, but it helped me understand the basics of C programming better.
-I'm planning to keep making small projects like this so I can slowly improve my programming skills and become more comfortable with writing code.
-
