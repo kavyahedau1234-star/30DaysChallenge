@@ -3,7 +3,7 @@ Hi! This is one of my beginner C programming projects.
 In this project, I made a simple program that takes the marks of a student in **5 different subjects** and then calculates the **total marks, average marks, and percentage**.
 I made this project while practicing the basic concepts of C programming.
 
-## 💻 What does the program do?
+## What does the program do?
 
 The program asks the user to enter marks for:
 
@@ -20,7 +20,7 @@ After entering all the marks, it shows:
 * Average Marks
 * Percentage
 
-## 🛠️ Things I used
+## Things I used
 
 I made this project using C language.
 
@@ -31,7 +31,7 @@ Some basic things I used are:
 * Variables – to store the marks and calculations
 * Basic mathematical operations – to calculate the results
 
-## 🧪 Example
+## Example
 
 This is an example of what the program can look like when we run it:
 
@@ -46,7 +46,7 @@ Average Marks = 80.00
 Percentage = 80.00%
 ```
 
-## 🌱 What I learned
+## What I learned
 
 While making this small project, I got practice with:
 
@@ -56,7 +56,7 @@ While making this small project, I got practice with:
 * Doing simple calculations in C
 * Using `printf()` and `scanf()`
 
-## 🎯 About the project
+## About the project
 
 This is a small project, but it helped me understand the basics of C programming better.
 I'm planning to keep making small projects like this so I can slowly improve my programming skills and become more comfortable with writing code.
