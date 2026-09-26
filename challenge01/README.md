@@ -1,17 +1,17 @@
-Hi! This is one of my beginner C programming projects.
+#Hi! This is one of my beginner C programming projects.
 
 In this project, I made a simple program that takes the marks of a student in 5 different subjects and then calculates the total marks, average marks, and percentage.
 I made this project while practicing the basic concepts of C programming.
 
-What does the program do?
+#What does the program do?
 
 The program asks the user to enter marks for:-
 
-Subject 1
-Subject 2
-Subject 3
-Subject 4
-Subject 5
+Subject1
+Subject2
+Subject3
+Subject4
+Subject5
 
 After entering all the marks, it shows:-
 
