@@ -35,15 +35,15 @@ Some basic things I used are:
 
 This is an example of what the program can look like when we run it:
 
-Enter marks for Subject1: 65
-Enter marks for Subject2: 72
-Enter marks for Subject3: 68
-Enter marks for Subject4: 75
-Enter marks for Subject5: 80
+* Enter marks for Subject1: 65
+* Enter marks for Subject2: 72
+* Enter marks for Subject3: 68
+* Enter marks for Subject4: 75
+* Enter marks for Subject5: 80
 
-Total Marks = 360.00
-Average Marks = 72.00
-Percentage = 72.00%
+* Total Marks = 360.00
+* Average Marks = 72.00
+* Percentage = 72.00%
 
 ## What I learned
 
