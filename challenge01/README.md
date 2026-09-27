@@ -26,8 +26,8 @@ I made this project using C language.
 
 Some basic things I used are:
 
-* `printf()` – to show messages and results
-* `scanf()` – to take marks as input
+* printf() – to show messages and results
+* scanf() – to take marks as input
 * Variables – to store the marks and calculations
 * Basic mathematical operations – to calculate the results
 
