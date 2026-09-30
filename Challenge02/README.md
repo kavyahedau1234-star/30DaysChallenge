@@ -1,4 +1,4 @@
-# TripCalc: Road Trip Fuel Calculator
+# Road Trip Fuel Calculator
 
 A simple C program that helps a student plan a road trip. Enter the distance, your vehicle's mileage and the current fuel price, and TripCalc tells you how much fuel you need and what it will cost.
 
@@ -38,6 +38,15 @@ Enter current fuel price per litre: 100Rs
 Fuel required : 12.00 litres
 Total fuel cost: 1200
 
+## What I learned
+
+While making this small project, I got practice with:
+
+* Taking input from the user
+* Creating and using variables
+* Understanding different data types
+* Doing simple calculations in C
+* Using printf() and scanf()
 
 
 ## About the project
