@@ -38,3 +38,7 @@ Enter current fuel price per litre: 100Rs
 Fuel required : 12.00 litres
 Total fuel cost: 1200
 
+
+
+## About the project
+This is a small project, but it helped me understand the basics of C programming better. I'm planning to keep making small projects like this so I can slowly improve my programming skills and become more comfortable with writing code.
