@@ -30,24 +30,11 @@ Total Fuel Cost        = Fuel Required (litres) x Price per Litre
 
 Road Trip Fuel Calculator 
 
-Enter total distance to travel (km): 450
-Enter vehicle mileage (km/l): 18
-Enter current fuel price per litre: 105.50
+Enter total distance to travel (km): 240
+Enter vehicle mileage (km/l): 20
+Enter current fuel price per litre: 100Rs
 
  Trip Summary 
-Fuel required : 25.00 litres
-Total fuel cost: 2637.50
+Fuel required : 12.00 litres
+Total fuel cost: 1200
 
-## How It Works
-
-1. The program asks for the distance, mileage and fuel price.
-2. It checks that the values make sense (mileage must be greater than zero, so we never divide by zero).
-3. It divides distance by mileage to get the litres needed.
-4. It multiplies the litres by the price per litre to get the total cost.
-5. It prints both results to two decimal places.
-
-
-
-## Author
-
-Part of my **C Programming Challenges** series, a 30-day challenge to learn programming fundamentals through small projects.
