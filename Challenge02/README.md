@@ -1,4 +1,4 @@
-# Road Trip Fuel Calculator
+# TRIPCALC: Road Trip Fuel Calculator
 
 A simple C program that helps a student plan a road trip. Enter the distance, your vehicle's mileage and the current fuel price, and TripCalc tells you how much fuel you need and what it will cost.
 
