@@ -15,9 +15,9 @@ Calculate and display the **amount of fuel required** for the trip and the **tot
 ## Concepts Practised
 
 - Variables and the float data type
-- Input with `scanf()` and output with printf()
-- Arithmetic operators (`/` and `*`)
-- Formatted output (`%.2f`)
+- Input with scanf() and output with printf()
+- Arithmetic operators (/ and *)
+- Formatted output (%.2f)
 - Basic input validation with "if"
 
 ## Formulas
