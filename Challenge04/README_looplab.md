@@ -28,7 +28,7 @@ The program:
 ## Built With
 
 - **C Language**
-- `printf()` and `scanf()` for input and output
+- printf() and scanf() for input and output
 - Loops (while / do-while) for repeated input
 - if, else if, else conditional statements
 - Basic arithmetic operations
