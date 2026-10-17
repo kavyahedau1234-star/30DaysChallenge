@@ -1,53 +1,57 @@
 # Menu-Driven Math Calculator
 
-A menu-driven C program that lets the user choose a mathematical operation. After each operation, the menu is displayed again, and the program stops only when the user selects Exit.
+A basic C program where you select any math function from a menu. Once the function is performed, the menu will appear again. The program will stop only after choosing Exit
 
 This is part of my **30-Day C Programming Challenge**.
 
 ## Challenge Objective
-
-Create a menu-driven C program that lets a user choose a mathematical operation. After each operation, display the menu again. The program must stop only when the user selects Exit.
+Create a menu-driven C program where you select any math function. Once the function is performed, the menu will appear again. The program will stop only after choosing Exit.
 
 ## Menu Options
 
-| Choice | Operation | What the program must do |
-|--------|-----------|--------------------------|
-| 1 | Solve a linear equation (`ax + b = 0`) | Calculate `x`, or identify no solution / infinitely many solutions |
-| 2 | Calculate factorial (`n!`) | Calculate factorial using a loop. Accept integers from 0 to 12 only |
-| 3 | Solve a quadratic equation (`ax² + bx + c = 0`) | Use the discriminant to identify the type of roots and calculate real roots |
-| 4 | Exit | Display a closing message and terminate the program |
+Option 1: Solve Linear Equation (ax + b = 0)
+- Find x or indicate no solution / infinitely many solutions
+
+Option 2: Calculate factorial (n!)
+- Use loop to calculate factorial. Only accept integers between 0 to 12
+
+Option 3: Solve Quadratic Equation (ax² + bx + c = 0)
+- Use discriminant to identify roots and find real roots
+
+Option 4: Exit
+- Print message and terminate the program
 
 ## Detailed Requirements
 
-- Use a loop to repeat the menu until Exit is selected
-- Use `if-else` or `switch` to process the selected operation
-- **Linear equation:**
-  - If `a ≠ 0`, calculate `x = -b/a`
-  - If `a = 0` and `b = 0`, report infinitely many solutions
-  - If `a = 0` and `b ≠ 0`, report no solution
-- **Factorial:** reject values outside 0–12. Remember that `0! = 1`
-- **Quadratic equation:**
-  - Require `a ≠ 0`. If `a = 0`, tell the user it is not a quadratic equation
-  - Classify the roots as two distinct real roots, two equal real roots, or no real roots
-- For an invalid menu choice, show an error and display the menu again
-
+- Use loop to repeat menu until Exit is selected
+- Use if else or switch to process the selection
+- Linear equation:
+  - If a != 0 then x = -b/a
+  - If a == 0 && b == 0 then infinitely many solutions
+  - If a == 0 && b != 0 then no solution
+- Factorial: reject non valid values outside 0-12 range. Remember 0! = 1
+- Quadratic equation:
+  - a != 0. If a == 0 inform the user that this is not a quadratic equation
+- Identify roots as two different real roots, two equal real roots or no real roots
+- In case of wrong menu selection print error and show menu again
+- 
 ## Built With
 
-- **C Language**
-- `printf()` and `scanf()` for input and output
+- C Language
+- printf() and scanf() for input and output
 - Loops for repeating the menu
-- `if-else` / `switch` for handling choices
-- Basic arithmetic operations
-
+- if else/switch for menu selection
+- Arithmetic
+  
 ## What I Practiced
 
-- Building a menu-driven program
-- Repeating a menu with loops until Exit is chosen
-- Using `if-else` or `switch` to handle different options
-- Using a loop to calculate factorial
-- Using the discriminant to classify the roots of a quadratic equation
-- Validating inputs and handling invalid choices
-
+- Creating a menu-driven C program
+- Repetition of menu with the use of loop until the menu gets an option of “exit”
+- Use if-else or switch according to the selected menu option
+- Use the loop to find factorial
+- Discriminant to classify roots of the quadratic equation
+- Validation of inputs and handling of invalid inputs.
+- 
 ## About This Project
 
-I'm building small projects like this to improve my C programming fundamentals, one challenge at a time.
+I am creaating such little projects for improving my basics in C programming.
