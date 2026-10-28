@@ -14,11 +14,11 @@ A campus event uses ticket IDs from `1` to `N`. The scanner records `N` entries,
 
 ## Input Rules
 
-- Enter `N`, where `5 ≤ N ≤ 15`, followed by `N` ticket IDs
-- Every ticket ID must be between `1` and `N`
+- Enter N, where 5 ≤ N ≤ 15, followed by N ticket IDs
+- Every ticket ID must be between 1 and N
 - A valid scan log has exactly **one missing ID** and exactly **one different ID appearing twice**; all other IDs appear once
 - If the input violates this pattern, report that the scan log is **invalid**
-- If `N` or any ticket ID is outside its allowed range, ask for that value again
+- If N or any ticket ID is outside its allowed range, ask for that value again
 
 
 ## Built With
